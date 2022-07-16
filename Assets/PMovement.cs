@@ -26,7 +26,7 @@ public class PMovement : MonoBehaviour
         {
             if (Input.GetAxis("Horizontal") < 0)
             {
-                animator.SetInteger("State", 2);
+                animator.SetInteger("State", 1);
                 direction = 1;
                 plr.transform.position = (plr.transform.position - new Vector3(speed, 0, 0));
             } else
