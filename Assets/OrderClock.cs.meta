@@ -3,7 +3,9 @@ guid: 92d5fdc1d353a0047b535ef739ea3070
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - GameScript: {instanceID: 0}
+  - Pizza: {fileID: 4454276225980786344, guid: ff763dd96f841204ab06a1d7f6414b60, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

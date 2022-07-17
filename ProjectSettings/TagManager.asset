@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - wall
+  - Cheese
+  - Mrooms
+  - Pep
+  - Olifes
+  - door
   layers:
   - Default
   - TransparentFX
